@@ -1,13 +1,13 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
-  title: MyString
-  description: MyText
-  image_url: MyString
+  title: Seven Mobile Apps in Seven Weeks
+  description: Native Apps, Multiple Platforms
+  image_url: 7apps.jpg
   price: 9.99
 
 two:
-  title: MyString
-  description: MyText
-  image_url: MyString
+  title: Rails, Angular, Postgres, and Bootstrap, Second Edition
+  description: Powerful, Effective, Efficient, Full-Stack Web Development
+  image_url: dcbang2.jpg
   price: 9.99
