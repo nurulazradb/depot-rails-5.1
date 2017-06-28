@@ -20,7 +20,7 @@ class SessionsControllerTest < ActionDispatch::IntegrationTest
   end
 
   test "should logout" do
-    delete login_url
+    delete logout_url
     assert_redirected_to store_index_url
   end
 end
