@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/nurulazradm/depot-rails-5.1.svg?branch=master)](https://travis-ci.org/nurulazradm/depot-rails-5.1)
+
 # README
 
 This README would normally document whatever steps are necessary to get the
