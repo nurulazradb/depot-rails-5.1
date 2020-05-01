@@ -23,3 +23,8 @@
 .byebug_history
 
 coverage
+
+## Environment normalization:
+/.bundle
+/vendor/bundle
+
